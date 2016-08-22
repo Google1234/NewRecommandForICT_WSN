@@ -1,2 +1,2 @@
 # NewRecommandForICT_WSN
-实验室内部新闻推荐
+实验室新闻推荐
