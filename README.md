@@ -1,2 +1,2 @@
 # NewRecommandForICT_WSN
-实验室新闻推荐
+shiyanshi新闻推荐
